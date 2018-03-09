@@ -1,5 +1,4 @@
-using SexDrive;
-using MonsterCock;
-
-  void Start();
-//I love you John Carpenter!!
+ void Start();
+//I hate you John Carpenter.
+//You are a damn meanie.
+//And I'm removing your lewd using objects
